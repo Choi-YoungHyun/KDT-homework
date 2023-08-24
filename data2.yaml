@@ -1,0 +1,7 @@
+train: C:\KDT_0302\Python\ComputerVision\0822\train
+val: C:\KDT_0302\Python\ComputerVision\0822\valid
+test: C:\KDT_0302\Python\ComputerVision\0822\train
+nc: 2
+names:
+  0: cat
+  1: dog
